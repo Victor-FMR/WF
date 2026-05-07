@@ -1,0 +1,30 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "The JavaScript template",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.1",
+    "eslint": "^7.2.0",
+    "events": "^3.3.0",
+    "os-browserify": "^0.3.0",
+    "parcel": "^2.0.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "string_decoder": "^1.3.0",
+    "vm-browserify": "^1.1.2"
+  },
+  "keywords": [
+    "css",
+    "javascript"
+  ],
+  "dependencies": {
+    "dotenv": "17.4.2"
+  }
+}

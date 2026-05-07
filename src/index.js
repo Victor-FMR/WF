@@ -6,4 +6,4 @@
 
 const body = document.getElementById("particlesjs");
 
-body.style.backgroundColor = "blue";
+body.style.backgroundColor = "orange";
